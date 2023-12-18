@@ -177,7 +177,7 @@ Life moves fast, and so do we! Our Rush Laundry service is designed for those mo
 <Card title="Dry Clean" footer={footer3} header={header3} className="serviceCard">
 <p className="m-0">
 Elevate your wardrobe with our professional dry cleaning services. Delicate fabrics, intricate designs, and special garments require special care, and that's exactly what we offer. 
-Our dry cleaning process is tailored to preserve the integrity of your clothes.
+
 </p>
 </Card>
 
